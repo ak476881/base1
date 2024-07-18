@@ -9,8 +9,8 @@ sky:
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
     bucket-name: ak476881
-    access-key-id: LTAI5t7oPuLGE6yiAKD8xRTr
-    access-key-secret: SOFmc7UbbhQozmoqzP7kNLMXMQrvI9
+    access-key-id: #todo
+    access-key-secret: #todo
   redis:
     host: localhost
     port: 6379
